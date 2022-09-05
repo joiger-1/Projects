@@ -1,0 +1,95 @@
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\bin\Debug\ZooMar.exe.config
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\bin\Debug\ZooMar.exe
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\bin\Debug\ZooMar.pdb
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.csprojAssemblyReference.cache
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.Properties.Resources.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.csproj.GenerateResource.cache
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.exe
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.pdb
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.csproj.CoreCompileInputs.cache
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.ErrorForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.AdminForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.LogIn.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.ManagerForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.SellerForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.WarehouseForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.AddProductForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.EditProductForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.ProfileForm.resources
+D:\Проект Оберган\ZooMar\ZooMar\bin\Debug\ZooMar.exe.config
+D:\Проект Оберган\ZooMar\ZooMar\bin\Debug\ZooMar.exe
+D:\Проект Оберган\ZooMar\ZooMar\bin\Debug\ZooMar.pdb
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.csproj.AssemblyReference.cache
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.AddProductForm.resources
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.EditProductForm.resources
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.ErrorForm.resources
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.Form1.resources
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.AdminForm.resources
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.LogIn.resources
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.ManagerForm.resources
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.SellerForm.resources
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.ProfileForm.resources
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.Properties.Resources.resources
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.WarehouseForm.resources
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.csproj.GenerateResource.cache
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.csproj.CoreCompileInputs.cache
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.exe
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.pdb
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.MarketForm.resources
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.UsersListForm.resources
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.AddUserForm.resources
+D:\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.EditUserForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\bin\Debug\ZooMar.exe.config
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\bin\Debug\ZooMar.exe
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.csprojAssemblyReference.cache
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.EditUserForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.AddUserForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.AddProductForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.EditProductForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.ErrorForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.Form1.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.AdminForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.LogIn.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.ManagerForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.SellerForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.ProfileForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.MarketForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.Properties.Resources.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.WarehouseForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.UsersListForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.csproj.GenerateResource.cache
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.csproj.CoreCompileInputs.cache
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.exe
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.pdb
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\bin\Debug\ZooMar.exe.config
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\bin\Debug\ZooMar.exe
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\bin\Debug\ZooMar.pdb
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.csprojAssemblyReference.cache
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.EditUserForm.resources
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.AddUserForm.resources
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.AddProductForm.resources
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.EditProductForm.resources
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.ErrorForm.resources
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.AdminForm.resources
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.LogIn.resources
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.ManagerForm.resources
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.SellerForm.resources
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.ProfileForm.resources
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.MarketForm.resources
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.Properties.Resources.resources
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.WarehouseForm.resources
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.UsersListForm.resources
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.csproj.GenerateResource.cache
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.csproj.CoreCompileInputs.cache
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.exe
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.pdb
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.AddMarketForm.resources
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.MarketListForm.resources
+d:\PROFILES\tum_44\Desktop\Проект Оберган\ZooMar\ZooMar\obj\Debug\ZooMar.EditMarketForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.EditMarketForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.AddMarketForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.EditUserForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.AddUserForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.MarketForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.MarketListForm.resources
+\\srv-kz-252\Profiles\students\GR_44\Евгений Тумар\3 курс\Учебная практика по программированию\Проект\ZooMar\ZooMar\obj\Debug\ZooMar.UsersListForm.resources
